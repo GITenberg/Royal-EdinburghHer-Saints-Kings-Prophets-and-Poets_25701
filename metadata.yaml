@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/963
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25701#Royal-EdinburghHer-Saints-Kings-Prophets-and-Poets
 gutenberg_issued: '2008-06-05'
 gutenberg_type: Text
 identifiers:
